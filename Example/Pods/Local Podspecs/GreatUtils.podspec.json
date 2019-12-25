@@ -1,0 +1,22 @@
+{
+  "name": "GreatUtils",
+  "version": "0.1.0",
+  "summary": "A short description of GreatUtils.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tagirkaz/GreatUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tagirkaz": "tagir.nafikov@akbarsdigital.ru"
+  },
+  "source": {
+    "git": "https://github.com/tagirkaz/GreatUtils.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GreatUtils/Classes/**/*"
+}

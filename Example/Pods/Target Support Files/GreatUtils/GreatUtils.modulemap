@@ -1,0 +1,6 @@
+framework module GreatUtils {
+  umbrella header "GreatUtils-umbrella.h"
+
+  export *
+  module * { export * }
+}

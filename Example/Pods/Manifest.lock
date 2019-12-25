@@ -1,0 +1,16 @@
+PODS:
+  - GreatUtils (0.1.0)
+
+DEPENDENCIES:
+  - GreatUtils (from `../`)
+
+EXTERNAL SOURCES:
+  GreatUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GreatUtils: d2468ed0f829ff26fc4bd8b7365cf89ff5a0db15
+
+PODFILE CHECKSUM: c72084b84ed6867738ec412c760be2fe3be75915
+
+COCOAPODS: 1.8.4
