@@ -11,6 +11,8 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
+* ios10
+
 ## Installation
 
 GreatUtils is available through [CocoaPods](https://cocoapods.org). To install
@@ -22,7 +24,7 @@ pod 'GreatUtils'
 
 ## Author
 
-tagirkaz, tagir.nafikov@akbarsdigital.ru
+tagirkaz, tagir.nafikov@gmail.com
 
 ## License
 
